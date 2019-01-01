@@ -22,3 +22,12 @@ def last_element(array)
   my_index = array[-1]
   return my_index
 end
+
+def first_element_with_array_menthods(array)
+  array.shift
+end
+
+
+
+
+
