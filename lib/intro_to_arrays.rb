@@ -8,7 +8,7 @@ def instantiate_new_array
    return my_array
  end
  
- def indexing(array)
+ def first_element(array)
    my_index = array(0)
  end
    
