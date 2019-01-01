@@ -18,3 +18,7 @@ def instantiate_new_array
    return my_index
  end
    
+def last_element(array)
+  my_index = array[-1]
+  return my_index
+end
