@@ -10,5 +10,6 @@ def instantiate_new_array
  
  def first_element(array)
    my_index = array(0)
+   return my_index
  end
    
