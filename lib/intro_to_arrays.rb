@@ -12,4 +12,9 @@ def instantiate_new_array
    my_index = array[0]
    return my_index
  end
+ 
+ def third_element(array)
+   my_index = array[2]
+   return my_index
+ end
    
