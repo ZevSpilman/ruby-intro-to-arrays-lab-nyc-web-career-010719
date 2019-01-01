@@ -7,3 +7,8 @@ def instantiate_new_array
    my_array = ["element1", "element2"]
    return my_array
  end
+ 
+ def indexing(array)
+   my_index = array(0)
+ end
+   
