@@ -9,7 +9,7 @@ def instantiate_new_array
  end
  
  def first_element(array)
-   my_index = array(0)
+   my_index = array[0]
    return my_index
  end
    
